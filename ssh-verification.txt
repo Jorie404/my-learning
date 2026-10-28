@@ -1,0 +1,4 @@
+GitHub SSH verification
+Repository: Jorie404/my-learning
+Authentication: Successful
+Remote protocol: SSH
