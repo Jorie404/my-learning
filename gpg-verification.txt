@@ -1,0 +1,4 @@
+GPG commit signing verification
+Repository: Jorie404/my-learning
+Signing key: 9C1EA6CA761357284372988ABEF422CC37F35B51
+Purpose: Verify Git commit signing with GPG.
